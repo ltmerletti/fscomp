@@ -1,0 +1,16 @@
+# Based on Jonathan Bruel's repository:
+# https://github.com/j-bruel/ultimate-cpp-clang-format-tidy
+
+Checks: >
+  bugprone-*,
+  clang-analyzer-*,
+  concurrency-*,
+  performance-*,
+  readability-*,
+  -bugprone-reserved-identifier,
+  -readability-braces-around-statements,
+  -readability-function-cognitive-complexity,
+  -readability-magic-numbers
+
+HeaderFilterRegex: 'include/.*'
+WarningsAsErrors: ''

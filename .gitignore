@@ -1,0 +1,16 @@
+fscomp
+test_suite
+test_asan
+*.o
+*.dSYM/
+
+*.db
+*.db-wal
+*.db-shm
+
+.DS_Store
+._*
+.vscode/
+.idea/
+compile_commands.json
+.cache/
