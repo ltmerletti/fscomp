@@ -14,3 +14,6 @@ test_asan
 .idea/
 compile_commands.json
 .cache/
+
+scripts/render_demo_gif.py
+scripts/__pycache__/render_demo_gif.cpython-313.pyc
