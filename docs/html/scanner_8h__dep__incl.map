@@ -1,0 +1,13 @@
+<map id="include/scanner.h" name="include/scanner.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,5,217,31"/>
+<area shape="rect" id="Node000002" href="$report_8h.html" title=" " alt="" coords="101,79,211,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,44,158,79,153,78,154,49"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title=" " alt="" coords="5,153,88,178"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="126,43,91,81,68,119,53,154,48,151,63,117,87,77,129,39"/>
+<area shape="rect" id="Node000005" href="$scanner_8c.html" title=" " alt="" coords="224,153,323,178"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="184,39,225,77,252,117,270,153,265,152,247,120,220,81,183,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,115,67,154,64,150,123,112"/>
+<area shape="rect" id="Node000004" href="$report_8c.html" title=" " alt="" coords="112,153,200,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="158,118,158,154,154,151,154,122"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="189,110,256,152,251,152,188,115"/>
+</map>

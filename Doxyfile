@@ -1,0 +1,43 @@
+PROJECT_NAME           = "fscomp"
+PROJECT_BRIEF          = "Fast, concurrent filesystem scanner and compression utility"
+OUTPUT_DIRECTORY       = "docs"
+
+OPTIMIZE_OUTPUT_FOR_C  = YES
+EXTRACT_ALL            = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+EXTRACT_PRIVATE        = YES
+CASE_SENSE_NAMES       = YES
+
+INPUT                  = src include README.md
+FILE_PATTERNS          = *.c *.h *.md
+RECURSIVE              = YES
+EXCLUDE_PATTERNS       = */.git/* */build/* */vendor/*
+USE_MDFILE_AS_MAINPAGE = README.md
+
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = NO
+REFERENCED_BY_RELATION = YES
+REFERENCES_RELATION    = YES
+
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+HTML_FILE_EXTENSION    = .html
+GENERATE_LATEX         = NO
+
+HAVE_DOT               = YES
+DOT_PATH               = /opt/homebrew/bin
+CLASS_GRAPH            = YES
+COLLABORATION_GRAPH    = YES
+GROUP_GRAPHS           = YES
+UML_LOOK               = YES
+UML_LIMIT_NUM_FIELDS   = 50
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+DIRECTORY_GRAPH        = YES
+DIR_GRAPH_MAX_DEPTH    = 3
+DOT_IMAGE_FORMAT       = svg
+INTERACTIVE_SVG        = YES
+DOT_TRANSPARENT        = NO
+DOT_MULTI_TARGETS      = YES
+GENERATE_LEGEND        = YES

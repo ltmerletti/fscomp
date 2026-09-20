@@ -1,0 +1,14 @@
+<map id="scanner_targets_free" name="scanner_targets_free">
+<area shape="rect" id="Node000001" title=" " alt="" coords="484,29,627,55"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="589,14,579,10,555,8,534,10,523,15,520,20,526,30,521,28,515,21,519,11,533,5,556,3,580,5,594,15"/>
+<area shape="rect" id="Node000002" href="$scanner_8c.html#ac67cfd4d80fcfe70425d7c9ed929977b" title=" " alt="" coords="103,29,223,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="466,33,436,33,354,30,272,33,224,37,223,32,271,28,354,25,436,28,471,32"/>
+<area shape="rect" id="Node000004" href="$scanner__targets_8c.html#a64bd92fdb6d0e7db6437c2b17dd5a3a7" title=" " alt="" coords="271,67,436,92"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="471,58,427,69,427,63,466,59"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="184,14,178,10,163,8,150,10,143,14,141,20,145,30,140,28,136,21,138,11,148,5,163,3,180,5,190,14"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a5d474dbfbae98dbc733874c8062c4c10" title=" " alt="" coords="6,29,55,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,44,56,45,55,40,90,41"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="52,15,45,10,30,8,17,10,10,14,8,20,12,28,7,30,3,21,6,11,15,5,31,3,47,5,57,13"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="267,63,223,57,224,51,272,63"/>
+<area shape="poly" id="edge8_Node000004_Node000004" title=" " alt="" coords="385,51,375,48,354,45,334,47,323,52,321,57,326,67,321,65,315,58,319,48,332,42,354,40,377,43,390,52"/>
+</map>

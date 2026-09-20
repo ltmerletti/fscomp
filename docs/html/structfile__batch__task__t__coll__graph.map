@@ -1,0 +1,7 @@
+<map id="file_batch_task_t" name="file_batch_task_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="50,204,160,270"/>
+<area shape="rect" id="Node000002" href="$structscan__task__t.html" title=" " alt="" coords="5,36,87,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,100,91,188,85,188,56,104"/>
+<area shape="rect" id="Node000003" href="$structfile__work__item__t.html" title=" " alt="" coords="111,5,216,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,130,137,181,133,190,128,187,132,179,148,134"/>
+</map>

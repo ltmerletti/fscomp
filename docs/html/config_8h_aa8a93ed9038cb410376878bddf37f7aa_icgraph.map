@@ -1,0 +1,10 @@
+<map id="config_remove_target" name="config_remove_target">
+<area shape="rect" id="Node000001" title=" " alt="" coords="311,29,457,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="417,14,407,10,384,8,363,10,352,15,349,20,355,30,350,28,344,21,348,11,362,5,384,3,409,5,422,15"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#afa17ea84c18bdb9e36e069fe20766841" title=" " alt="" coords="107,29,263,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="293,42,264,45,263,40,298,42"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="209,14,201,10,185,8,169,10,161,15,159,20,164,30,159,28,154,21,157,11,167,5,185,3,203,5,214,15"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a5d474dbfbae98dbc733874c8062c4c10" title=" " alt="" coords="9,29,59,55"/>
+<area shape="poly" id="edge4_Node000002_Node000003" title=" " alt="" coords="89,43,59,45,59,40,94,41"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="58,15,50,10,34,8,18,10,10,15,8,20,13,28,8,30,3,21,6,11,17,5,34,3,52,5,63,14"/>
+</map>

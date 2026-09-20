@@ -1,0 +1,17 @@
+<map id="prepare_statement" name="prepare_statement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="453,65,582,91"/>
+<area shape="poly" id="edge10_Node000001_Node000001" title=" " alt="" coords="547,50,538,46,517,44,499,46,489,51,487,56,492,66,487,64,481,57,485,47,497,41,517,39,539,41,552,51"/>
+<area shape="rect" id="Node000002" href="$db_8c.html#ab8b8244e899cd5f18455d3ff2e31c6ba" title=" " alt="" coords="128,29,198,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,70,405,69,199,48,199,43,405,64,440,69"/>
+<area shape="rect" id="Node000004" href="$db_8c.html#a637f1b8be7b8fafe79069dfd9371b255" title=" " alt="" coords="271,103,405,128"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="440,94,404,105,403,99,435,95"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="184,14,178,10,163,8,150,10,143,14,141,20,145,29,140,28,136,21,138,11,148,5,163,3,180,5,190,14"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a5d474dbfbae98dbc733874c8062c4c10" title=" " alt="" coords="6,67,55,92"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="112,58,57,75,55,70,115,54"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="51,52,45,48,30,45,17,47,10,52,8,58,12,66,7,67,3,58,6,49,15,42,31,40,47,43,57,51"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="367,87,358,84,338,81,320,83,310,88,308,93,313,103,308,101,303,94,306,84,318,78,338,76,359,79,372,88"/>
+<area shape="rect" id="Node000005" href="$scanner_8c.html#ac67cfd4d80fcfe70425d7c9ed929977b" title=" " alt="" coords="103,103,223,128"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="253,116,224,118,224,113,259,115"/>
+<area shape="poly" id="edge8_Node000005_Node000003" title=" " alt="" coords="97,100,55,89,56,83,101,97"/>
+<area shape="poly" id="edge9_Node000005_Node000005" title=" " alt="" coords="184,87,178,84,163,81,150,83,143,88,141,94,145,103,140,101,136,94,138,85,148,78,163,76,180,79,190,88"/>
+</map>

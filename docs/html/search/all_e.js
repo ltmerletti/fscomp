@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['path_0',['path',['../structdirectory__task__t.html#a6e2fcc66faa56201dee364c9e07ef134',1,'directory_task_t::path'],['../structfile__work__item__t.html#a8f36da66d6c6ee4ba1dd80c4d4c534e2',1,'file_work_item_t::path'],['../structscanner__target__t.html#a9384c775eaf51923dd32a4caf674c5fe',1,'scanner_target_t::path'],['../structfile__record__t.html#a70ef233b1b61ab51d9311bddcb55613d',1,'file_record_t::path'],['../structtop__saved__file__t.html#ad58873cadba3c70ffa2294cbb802ea5c',1,'top_saved_file_t::path']]],
+  ['path_5fbuffer_5fcapacity_1',['PATH_BUFFER_CAPACITY',['../constants_8h.html#a23a688c18c411c494a0fb4d3bd34aaf6',1,'constants.h']]],
+  ['path_5fis_5finside_5fdirectory_2',['path_is_inside_directory',['../scanner__targets_8c.html#a1ced80ea30e52e74791cf48a534b2a92',1,'scanner_targets.c']]],
+  ['pending_5fdatabase_5frecords_3',['pending_database_records',['../structscan__execution__context__t.html#a29c48ecf43ffd3e4ec5e4ee50644a351',1,'scan_execution_context_t']]],
+  ['pending_5ftask_5fcount_4',['pending_task_count',['../structscan__worker__context__t.html#a0d30165b69a7623431b1e1a0fab52d60',1,'scan_worker_context_t']]],
+  ['percentage_5fmultiplier_5',['PERCENTAGE_MULTIPLIER',['../constants_8h.html#a7f6e7b3cc0dc8262e51eb94d19c43f86',1,'constants.h']]],
+  ['physical_5fbytes_6',['physical_bytes',['../structfile__record__t.html#ac4c3c0ee38a72653521ee5f97dde4f4a',1,'file_record_t::physical_bytes'],['../structextension__statistic__t.html#ad797e065930dcc0cd67cbe9c3fa6d0ab',1,'extension_statistic_t::physical_bytes'],['../structtop__saved__file__t.html#a54c29d9bc7ee55de46905b567f75d5b9',1,'top_saved_file_t::physical_bytes']]],
+  ['physical_5fbytes_5fafter_7',['physical_bytes_after',['../structcompress__outcome__t.html#ac52b1e6ceecd228fab0f0482861605bc',1,'compress_outcome_t']]],
+  ['physical_5fbytes_5fbefore_8',['physical_bytes_before',['../structcompress__outcome__t.html#aca6f6590fbdac5eadc17259a15a6b81d',1,'compress_outcome_t']]],
+  ['posix_5fspawn_5fdev_5fnull_5ffile_5fmode_9',['POSIX_SPAWN_DEV_NULL_FILE_MODE',['../constants_8h.html#a6eb0e5969838cddff54f6b0c79549054',1,'constants.h']]],
+  ['prepare_5ffile_5ffor_5fcompression_10',['prepare_file_for_compression',['../scanner_8c.html#aa2d07b61405d84dc510a580bee744df7',1,'scanner.c']]],
+  ['prepare_5fstatement_11',['prepare_statement',['../db_8c.html#a68c7292b36f23c205c7f5c75f4610396',1,'db.c']]],
+  ['prerequisites_20for_20a_20manual_20build_12',['Prerequisites for a manual build',['../index.html#autotoc_md5',1,'']]],
+  ['print_5fusage_13',['print_usage',['../main_8c.html#a7bf4a3818b91f144183c65e1d555b627',1,'main.c']]],
+  ['process_5ffile_5fbatch_14',['process_file_batch',['../scanner_8c.html#a6fb054ad3bab8197a9004b7bfc10e1de',1,'scanner.c']]],
+  ['process_5fpath_5fentries_15',['process_path_entries',['../scanner_8c.html#a536509c8cf0280038d9919ac3ef6ba6a',1,'scanner.c']]],
+  ['process_5fprecompressed_5ffile_16',['process_precompressed_file',['../scanner_8c.html#ac82d61dbce27e6d53b16bd524b0e5293',1,'scanner.c']]],
+  ['process_5fsingle_5ffile_17',['process_single_file',['../scanner_8c.html#a95550bac5145f2d8613c49a348b4ff47',1,'scanner.c']]],
+  ['progress_5fline_5fbuffer_5fcapacity_18',['PROGRESS_LINE_BUFFER_CAPACITY',['../constants_8h.html#a568bda4961673b509f616a457ccbc33e',1,'constants.h']]],
+  ['progress_5fnon_5ftty_5flog_5finterval_19',['PROGRESS_NON_TTY_LOG_INTERVAL',['../constants_8h.html#a8910e341e6756f6fe6a9d22b5e242133',1,'constants.h']]],
+  ['progress_5fpath_5fdisplay_5flimit_20',['PROGRESS_PATH_DISPLAY_LIMIT',['../constants_8h.html#ae46ffa4f0933687e026550cfc6601869',1,'constants.h']]],
+  ['progress_5fupdate_5finterval_5fmilliseconds_21',['PROGRESS_UPDATE_INTERVAL_MILLISECONDS',['../constants_8h.html#a8b3226c1b332e60af5672f64cbf20cee',1,'constants.h']]]
+];

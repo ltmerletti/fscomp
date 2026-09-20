@@ -1,0 +1,10 @@
+<map id="db_open_read_only" name="db_open_read_only">
+<area shape="rect" id="Node000001" title=" " alt="" coords="271,29,405,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="367,14,358,10,338,8,320,10,310,15,308,20,313,30,308,28,303,21,306,11,318,5,338,3,359,5,372,15"/>
+<area shape="rect" id="Node000002" href="$scanner_8c.html#ac67cfd4d80fcfe70425d7c9ed929977b" title=" " alt="" coords="103,29,223,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="253,42,224,45,224,40,259,42"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="184,14,178,10,163,8,150,10,143,14,141,20,145,30,140,28,136,21,138,11,148,5,163,3,180,5,190,15"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a5d474dbfbae98dbc733874c8062c4c10" title=" " alt="" coords="6,29,55,55"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="85,43,56,45,55,40,90,41"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="51,15,45,10,30,8,17,10,10,14,8,20,12,28,7,30,3,21,6,11,15,5,31,3,47,5,57,14"/>
+</map>
