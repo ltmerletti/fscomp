@@ -4,6 +4,7 @@ LDFLAGS ?= -lsqlite3 -lpthread
 
 CLANG_FORMAT ?= /Library/Developer/CommandLineTools/usr/bin/clang-format
 CLANG_TIDY ?= $(shell command -v clang-tidy 2>/dev/null || echo "/opt/homebrew/opt/llvm/bin/clang-tidy")
+DOXYGEN ?= $(shell command -v doxygen 2>/dev/null || echo "/opt/homebrew/bin/doxygen")
 
 PREFIX ?= $(HOME)/.local
 BINDIR ?= $(PREFIX)/bin
@@ -28,7 +29,7 @@ TEST_TARGET = test_suite
 
 FORMAT_FILES = include/*.h src/*.h src/*.c tests/*.c
 
-.PHONY: all clean test asan format tidy install uninstall upgrade
+.PHONY: all clean test asan format tidy install uninstall upgrade docs docs-open
 
 all: $(TARGET)
 
@@ -57,6 +58,13 @@ format:
 
 tidy:
 	$(CLANG_TIDY) -p . --extra-arg="-isysroot" --extra-arg="$(shell xcrun --show-sdk-path)" src/*.c tests/*.c
+
+docs:
+	@command -v $(DOXYGEN) >/dev/null 2>&1 || { echo "Error: doxygen not found. Install with: brew install doxygen graphviz"; exit 1; }
+	$(DOXYGEN) Doxyfile
+
+docs-open: docs
+	open docs/html/index.html
 
 install: $(TARGET)
 	mkdir -p $(BINDIR)
